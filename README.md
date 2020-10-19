@@ -36,9 +36,8 @@ command to run if program contains helper info
 
 ## Authors
 
-Amir Ahooye Atashin
-
-Behrooz Razeghi
+* Amir Ahooye Atashin
+* Behrooz Razeghi
 
 ## Version History
 
