@@ -20,8 +20,8 @@ An in-depth paragraph about your project and overview of use.
 
 ### Executing program
 
-* Run data_colored_mnist.ipynb to generate Colored-Mnist dataset
-* Run exp_colored_mnist.ipynb for Colored-Mnist experiments of the paper
+* Run data_colored_mnist.ipynb to generate Colored-MNIST dataset (both biased and uniform)
+* Run exp_colored_mnist.ipynb for Colored-MNIST experiments of the paper
 * Run exp_celeba.ipynb for CelebA experiments of the paper
 ```
 code blocks for commands
@@ -36,9 +36,8 @@ command to run if program contains helper info
 
 ## Authors
 
-Contributors names and contact info
-
 Amir Ahooye Atashin
+
 Behrooz Razeghi
 
 ## Version History
@@ -48,7 +47,7 @@ Behrooz Razeghi
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE file for details
 
 ## Citation
 
