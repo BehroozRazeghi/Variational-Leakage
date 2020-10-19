@@ -1,6 +1,6 @@
 # Variational-Nested-Leakage
 
-Simple overview of use/purpose.
+This is a repository of the code for VARIATIONAL NESTED LEAKAGE: THE ROLE OF INFORMATION COMPLEXITY IN REVEALED INTRINSIC LEAKAGE, a paper submmited in ICASSP 2021. 
 
 ## Description
 
