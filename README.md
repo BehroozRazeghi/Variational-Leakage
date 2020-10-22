@@ -1,34 +1,33 @@
-# Variational-Nested-Leakage
+# Variational-Leakage
 
-This is a repository of the code for "Variational Nested Leakage: The Role of Information Complexity in Revealed Intrinsic Leakage", a paper submmited to ICASSP 2021. 
+This is a repository of the code for "Variational Leakage: The role of Information Complexity in Privacy Leakage".
 
 ## Getting Started
 
 ### Dependencies
 
 * Python 3.6+
-* Tensorflow 2.3+
+* TensorFlow 2.3+
+* Pandas
+* Matplotlib (for graphs and figures)
+* OpenCV-python (to read and preprocess image data in CelebA experiments)
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Download repository
+* Install Dependencies
+* Download [img_align_celeba.zip] (https://drive.google.com/drive/folders/0B7EVK8r0v71pTUZsaXdaSnZBZzg) and extract it to the CelebA folder in the root of the project
 
 ### Executing program
 
 * Run data_colored_mnist.ipynb to generate Colored-MNIST dataset (both biased and uniform)
 * Run exp_colored_mnist.ipynb for Colored-MNIST experiments of the paper
+
 * Run exp_celeba.ipynb for CelebA experiments of the paper
-```
-code blocks for commands
-```
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+It is highly recommended to select the appropriate batch size based on your GPU's memory and computer specification to utilize maximum efficiency on your computer. 
 
 ## Authors
 
