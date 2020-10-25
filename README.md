@@ -1,4 +1,4 @@
-# Variational-Leakage
+# Variational Leakage
 
 This is a repository of the code for "Variational Leakage: The role of Information Complexity in Privacy Leakage".
 
@@ -16,7 +16,7 @@ This is a repository of the code for "Variational Leakage: The role of Informati
 
 * Download repository
 * Install Dependencies
-* Download [img_align_celeba.zip] (https://drive.google.com/drive/folders/0B7EVK8r0v71pTUZsaXdaSnZBZzg) and extract it to the CelebA folder in the root of the project
+* Download [img_align_celeba.zip](https://drive.google.com/drive/folders/0B7EVK8r0v71pTUZsaXdaSnZBZzg) and extract it to the CelebA folder in the root of the project
 
 ### Executing program
 
@@ -31,7 +31,7 @@ It is highly recommended to select the appropriate batch size based on your GPU'
 
 ## Authors
 
-* Amir Ahooye Atashin
+* Amir Atashin
 * Behrooz Razeghi
 
 ## Version History
