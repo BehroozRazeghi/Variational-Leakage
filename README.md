@@ -50,6 +50,8 @@ It is highly recommended to select the appropriate batch size based on your GPU'
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details
 
 ## Citation
+
+Please consider referencing the following research paper of this repository if you find it useful or relevant to your research:
 ```
 ```
 ## Acknowledgments
