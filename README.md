@@ -50,3 +50,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Inspiration, code snippets, etc.
 * [download CelebA dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
+* [The innovative concept behind our Colored-MNIST dataset was influenced from "A Variational Approach to Privacy and Fairness"](https://arxiv.org/abs/2006.06332)
