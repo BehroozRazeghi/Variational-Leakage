@@ -53,6 +53,23 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 Please consider referencing the following research paper of this repository if you find it useful or relevant to your research:
 ```
+@inproceedings{10.1145/3468218.3469040,
+author = {Atashin, Amir Ahooye and Razeghi, Behrooz and G\"{u}nd\"{u}z, Deniz and Voloshynovskiy, Slava},
+title = {Variational Leakage: The Role of Information Complexity in Privacy Leakage},
+year = {2021},
+isbn = {9781450385619},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3468218.3469040},
+doi = {10.1145/3468218.3469040},
+abstract = {We study the role of information complexity in privacy leakage about an attribute of an adversary's interest, which is not known a priori to the system designer. Considering the supervised representation learning setup and using neural networks to parameterize the variational bounds of information quantities, we study the impact of the following factors on the amount of information leakage: information complexity regularizer weight, latent space dimension, the cardinalities of the known utility and unknown sensitive attribute sets, the correlation between utility and sensitive attributes, and a potential bias in a sensitive attribute of adversary's interest. We conduct extensive experiments on Colored-MNIST and CelebA datasets to evaluate the effect of information complexity on the amount of intrinsic leakage.},
+booktitle = {Proceedings of the 3rd ACM Workshop on Wireless Security and Machine Learning},
+pages = {91–96},
+numpages = {6},
+keywords = {Information complexity, statistical inference, intrinsic leakage, privacy, information bottleneck},
+location = {Abu Dhabi, United Arab Emirates},
+series = {WiseML '21}
+}
 ```
 ## Acknowledgments
 
