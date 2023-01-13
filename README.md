@@ -6,7 +6,7 @@
 
 # Description
 
-This is a repository of the code for "Variational Leakage: The role of Information Complexity in Privacy Leakage".
+The official code of "**Variational Leakage: The role of Information Complexity in Privacy Leakage**" [[link](https://arxiv.org/pdf/2106.02818.pdf)].
 
 ## Getting Started
 
